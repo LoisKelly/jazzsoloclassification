@@ -6,7 +6,9 @@ It explores two approaches to audio classification, one using raw WAV files in a
 
 ### Notebooks:
 Pre-Processing data - This notebook processes the data, including converting MIDI files to WAV, sorting files by artist, splitting the data into smaller chunks and creating spectograms. 
+
 WAV CNN Classifier - Using code from Week 6 AI for Media, this notebook includes the code for a CNN classifier model for raw WAV files. 
+
 Spectograms Classifier - This notebook is adapted from https://github.com/jeffprosise/Deep-Learning/blob/master/Audio%20Classification%20(CNN).ipynb. It includes the code for an image classifier that is used to classify the audio. 
 
 ### Installation
